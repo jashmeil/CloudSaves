@@ -1,0 +1,1 @@
+r.FidelityFX.FI.Enabled=1
